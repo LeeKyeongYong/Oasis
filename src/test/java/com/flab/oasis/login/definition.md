@@ -7,4 +7,5 @@
 ## TODO
 
 1. 기본 로그인 -> JWT 인증 process 직접 구현
-2. 구글 소셜 로그인 -> Spring Security(OAuth2) 적용해서 구현
+2. Valt 적용
+3. 구글 소셜 로그인 -> Spring Security(OAuth2) 적용해서 구현
